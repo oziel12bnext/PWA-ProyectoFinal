@@ -5,7 +5,7 @@ Este proyecto forma parte de la materia **Aplicaciones WEB Progresivas**.
 Tiene como objetivo desarrollar una aplicación que [describe brevemente el propósito del proyecto — p. ej. permitir a los usuarios gestionar tareas académicas, sincronizar datos offline/online y ofrecer una experiencia tipo app móvil mediante PWA].
 
 ## 👥 Integrantes
-- Víctor Oziel  
+- Víctor Oziel Flores Salvador  
 - Natalia Hernández Ramos  
 - Ernesto Solís Ramírez  
 - Emiliano Arellano Guerra
