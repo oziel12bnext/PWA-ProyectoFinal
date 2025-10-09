@@ -33,3 +33,8 @@ Tiene como objetivo desarrollar una aplicación que [describe brevemente el prop
    python -m venv .venv
    source .venv/bin/activate   # Linux / macOS
    .venv\Scripts\activate      # Windows
+   
+## 🗓️ Profesor
+**Nombre:** Sem Tomas Hernadez Martinez
+**Correo:** sem.hernandez@utsc.edu.mx
+
